@@ -1,6 +1,6 @@
 # Terms of Service for AttixTools
 
-_Last Updated: 25.03.2025
+_Last Updated: 25.03.2025_
 
 Welcome to **AttixTools** (the “Bot”), a Discord bot created to assist server administrators and moderators in posting questions and collecting user-submitted answers within their Discord servers. By using or interacting with AttixTools in any server, you agree to the following Terms of Service. If you do not agree, do not use the Bot.
 
